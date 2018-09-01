@@ -78,6 +78,8 @@ go run test.go
 使用go的js库`syscall/js`
 ```go
 // main.go
+package main
+
 import "syscall/js"
 
 func sum(args []js.Value) {
