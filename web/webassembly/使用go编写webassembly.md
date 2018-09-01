@@ -101,8 +101,8 @@ func main() {
 ![image](https://note.youdao.com/yws/public/resource/47ed86ad94482e345a33baf0e9fb89eb/xmlnote/86ADB5B191C141C38442F7DB54257CD1/3794)
 
 ### 操作dom
-在go中可以获取window对象来达到操作dom的效果，做一个计算器
-![image](https://note.youdao.com/yws/public/resource/47ed86ad94482e345a33baf0e9fb89eb/xmlnote/5C677199C5144A6CAC3D8A2AC9CF378B/3797)
+在go中可以获取window对象来达到操作dom的效果，做一个计算器  
+![image](https://note.youdao.com/yws/public/resource/47ed86ad94482e345a33baf0e9fb89eb/xmlnote/5C677199C5144A6CAC3D8A2AC9CF378B/3797)  
 此示例可以在[wasm js示例](https://github.com/linjiajian999/anything/tree/master/go/js)中参考
 
 具体代码可以参考
